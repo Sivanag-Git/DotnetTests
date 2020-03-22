@@ -1,0 +1,14 @@
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\MyTests.deps.json
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\MyTests.runtimeconfig.json
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\MyTests.runtimeconfig.dev.json
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\MyTests.dll
+C:\Users\insanumul\source\repos\MyTests\MyTests\bin\Debug\netcoreapp2.2\MyTests.pdb
+C:\Users\insanumul\source\repos\MyTests\MyTests\obj\Debug\netcoreapp2.2\MyTests.csprojAssemblyReference.cache
+C:\Users\insanumul\source\repos\MyTests\MyTests\obj\Debug\netcoreapp2.2\MyTests.csproj.CoreCompileInputs.cache
+C:\Users\insanumul\source\repos\MyTests\MyTests\obj\Debug\netcoreapp2.2\MyTests.AssemblyInfoInputs.cache
+C:\Users\insanumul\source\repos\MyTests\MyTests\obj\Debug\netcoreapp2.2\MyTests.AssemblyInfo.cs
+C:\Users\insanumul\source\repos\MyTests\MyTests\obj\Debug\netcoreapp2.2\MyTests.dll
+C:\Users\insanumul\source\repos\MyTests\MyTests\obj\Debug\netcoreapp2.2\MyTests.pdb
